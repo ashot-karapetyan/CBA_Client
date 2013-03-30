@@ -1,0 +1,9 @@
+C:\Users\Ashot\Dropbox\TT\Lectures\II-semestr\CLR\Projects\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Ashot\Dropbox\TT\Lectures\II-semestr\CLR\Projects\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Ashot\Dropbox\TT\Lectures\II-semestr\CLR\Projects\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Ashot\Dropbox\TT\Lectures\II-semestr\CLR\Projects\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ashot\Dropbox\TT\Lectures\II-semestr\CLR\Projects\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+C:\Users\Ashot\Dropbox\TT\Lectures\II-semestr\CLR\Projects\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+C:\.Net\c#\CBA_Client\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\.Net\c#\CBA_Client\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+C:\.Net\c#\CBA_Client\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
